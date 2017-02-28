@@ -29,3 +29,6 @@ Here's a quick example of the interaction. U = user, A = Amazon Alexa.
    - U: send me the link for Madeintyo
    - A: Sending the link for [FRESH] Madeintyo - Mr. Tokyo
   ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/companion%20app.png) 
+  
+# Side Note
+There is a way to deploy the code on AWS Lambda, but as of right now I haven't done that. Also, this skill right now is by no means completed and done, I plan to work on it more. Recently Amazon allowed the use of playing music over the Echo so I want to find a way to play the links but theres the issue of getting a SoundCloud API Key, figuring out how to host the music files etc. 
