@@ -10,3 +10,5 @@ You can specify your favourite artists and Alexa will check if there's any new s
    2. Click "Add a New Skill"
    3. Enter the info for skill information. 
       ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Skill%20info.JPG)
+   4. Enter the info for the interaction model. [link](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/tree/master/speechAssets)
+      ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Interaction%20Model.png)
