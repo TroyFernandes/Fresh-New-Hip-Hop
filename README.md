@@ -11,4 +11,6 @@ You can specify your favourite artists and Alexa will check if there's any new s
    3. Enter the info for skill information. 
       ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Skill%20info.JPG)
    4. Enter the info for the interaction model. [link](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/tree/master/speechAssets)
+         * [Intent Schema](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/speechAssets/IntentSchema.json)
+         * For custom slot types, the "Type" = ARTISTS . Enter your favourite artists in the values. Each line should be a different                  artist
       ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Interaction%20Model.png)
