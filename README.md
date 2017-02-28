@@ -25,7 +25,7 @@ Here's a quick example of the interaction. U = user, A = Amazon Alexa.
    - U: Echo, start fresh new hip hop
    - A: Hello! you wanna know whats fresh on r/hiphopheads?
    - U: Only from my favourite artists
-   - A: The newest tracks from your favourite artists today are Madeintyo - Thank you, Mr. Tokyo
+   - A: The newest tracks from your favourite artists today are Madeintyo - Mr. Tokyo
    - U: send me the link for Madeintyo
-   - A: Sending the link for [FRESH] Madeintyo - Thank you, Mr. Tokyo
-   
+   - A: Sending the link for [FRESH] Madeintyo - Mr. Tokyo
+  ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/companion%20app.png) 
