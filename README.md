@@ -15,6 +15,17 @@ You can specify your favourite artists and Alexa will check if there's any new s
    6. For custom slot types, the "Type" = ARTISTS . Enter your favourite artists in the values. Each line should be a different                  artist
    7. For sample utterances, paste this [in](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/speechAssets/SampleUtterances.txt) click next when done
       ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Interaction%20Model.png)
-   8. For the configuration tab, select HTTPS then North America or Europe depending on location. Paste in your ngrok HTTPS link followed by /fresh_new_hip_hop ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/ngrok.JPG)
+   8. For the configuration tab, select HTTPS then North America or Europe depending on location. Paste in your ngrok HTTPS link followed by /fresh_new_hip_hop ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/ngrok.JPG) It should look like this ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Configuration.JPG)
    9. For the SSL Certification tab, choose "My development endpoint is a sub domain of a domain that has a wildcard certificate ... " Click next
    10. Done!
+
+# Sample Use
+
+Here's a quick example of the interaction. U = user, A = Amazon Alexa.
+   - U: Echo, start fresh new hip hop
+   - A: Hello! you wanna know whats fresh on r/hiphopheads?
+   - U: Only from my favourite artists
+   - A: The newest tracks from your favourite artists today are Madeintyo - Thank you, Mr. Tokyo
+   - U: send me the link for Madeintyo
+   - A: Sending the link for [FRESH] Madeintyo - Thank you, Mr. Tokyo
+   
