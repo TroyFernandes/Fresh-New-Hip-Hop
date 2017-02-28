@@ -9,4 +9,4 @@ You can specify your favourite artists and Alexa will check if there's any new s
     1. Sign into the [Amazon Developer Portal](https://developer.amazon.com/) and click the Alexa Tab
     2. Click "Add a New Skill"
     3. Enter the info for skill information. 
-    <img src="https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Skill%20info.JPG" width="700">
+      ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Skill%20info.JPG)
