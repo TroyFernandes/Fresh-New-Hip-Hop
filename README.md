@@ -8,10 +8,13 @@ You can specify your favourite artists and Alexa will check if there's any new s
 # Setup
    1. Sign into the [Amazon Developer Portal](https://developer.amazon.com/) and click the Alexa Tab
    2. Click "Add a New Skill"
-   3. Enter the info for skill information. 
+   3. Enter the info for skill information, and click next
       ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Skill%20info.JPG)
-   4. Enter the info for the interaction model. [link](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/tree/master/speechAssets)
    5. Here is the code you paste in [Intent Schema](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/speechAssets/IntentSchema.json)
          
    6. For custom slot types, the "Type" = ARTISTS . Enter your favourite artists in the values. Each line should be a different                  artist
+   7. For sample utterances, paste this [in](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/speechAssets/SampleUtterances.txt) click next when done
       ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/Interaction%20Model.png)
+   8. For the configuration tab, select HTTPS then North America or Europe depending on location. Paste in your ngrok HTTPS link followed by /fresh_new_hip_hop ![](https://github.com/TroyFernandes/Fresh-New-Hip-Hop/blob/master/Setup%20Images/ngrok.JPG)
+   9. For the SSL Certification tab, choose "My development endpoint is a sub domain of a domain that has a wildcard certificate ... " Click next
+   10. Done!
