@@ -1,0 +1,11 @@
+YesIntent yes
+YesIntent sure
+
+NoIntent no
+NoIntent nope
+
+FavouriteArtists any from my favourite artists
+FavouriteArtists only my favourites
+
+GetLinks send me the links for {ArtistName}
+GetLinks get me the links for {ArtistName}

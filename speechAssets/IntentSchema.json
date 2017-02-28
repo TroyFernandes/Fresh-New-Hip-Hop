@@ -1,0 +1,22 @@
+{  
+   "intents":[  
+      {  
+         "intent":"YesIntent"
+      },
+      {  
+         "intent":"NoIntent"
+      },
+      {  
+         "intent":"FavouriteArtists"
+      },
+      {  
+         "intent":"GetLinks",
+         "slots":[
+         	{
+				"name": "ArtistName",
+              	"type": "ARTISTS"
+         	}
+         ]
+      }
+   ]
+}
